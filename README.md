@@ -1,19 +1,29 @@
 <h1 align="center">Hi 👋, I'm Samuel Zuluaga</h1>
-<h3 align="center">A passionate engineering student from Colombia</h3>
+# 💫About Me :
+A passionate engineering student from Colombia
 
-- 🔭 I’m currently working on **A proyect about ISO/IEC 42001**
+🔭 I’m currently working on A proyect about ISO/IEC 42001
 
-- 🌱 I’m currently learning **Powerautomate, Sharepoint, ISO 42001, Web Desing**
+🌱 I’m currently learning Powerautomate, Sharepoint, ISO 42001, Web Desing
 
-- 🤝 I’m looking for help with **PowerApps**
+🤝 I’m looking for help with PowerApps
 
-- 💬 Ask me about **videogames, not development just videogames**
+💬 Ask me about videogames, not development just videogames
 
-- 📫 How to reach me **samyzuluagac@gmail.com**
+📫 How to reach me: samyzuluagac@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Zuluagita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zuluagita&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuluagita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Zuluagita&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Zuluagita&icon=0&color=12)](https://visitcount.itsvg.in)
